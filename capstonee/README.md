@@ -31,7 +31,7 @@ This Booking App was created as the final capstone project of the **Meta Front-E
 
 ```s
 # Run in the Terminal
-https://github.com/mohammadwasiq0/Meta-Front-End-Developer-Capstone.git
+https://github.com/Shoaib-Imrann/capstone.git
 
 # Install Dependencies
 npm install
